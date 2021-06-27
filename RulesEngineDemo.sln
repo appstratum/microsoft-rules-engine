@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesEngineDemo", "RulesEngineDemo\RulesEngineDemo.csproj", "{E2450AF2-5DB8-4E6B-952D-D862D328EAB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyRulesEngine", "SurveyRulesEngine\SurveyRulesEngine.csproj", "{FBAC3E9F-5537-4404-851E-D722E5058AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyRulesEngineTests", "SurveyRulesEngineTests\SurveyRulesEngineTests.csproj", "{882D1C09-FF37-4C77-A2FA-BDFB0ACCD4A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPressRestApiClient", "WordPressRestApiClient\WordPressRestApiClient.csproj", "{B8944CE4-8DDF-41F5-8AEE-6E137DDDBFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surveys", "Surveys\Surveys.csproj", "{5B002A23-46E5-4A92-B93D-178136F26313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPressRestApiClient.Tests", "WordPressRestApiClient.Tests\WordPressRestApiClient.Tests.csproj", "{5E86553A-B2A7-4DBF-9CEB-098CA276ED49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2450AF2-5DB8-4E6B-952D-D862D328EAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2450AF2-5DB8-4E6B-952D-D862D328EAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2450AF2-5DB8-4E6B-952D-D862D328EAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2450AF2-5DB8-4E6B-952D-D862D328EAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAC3E9F-5537-4404-851E-D722E5058AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAC3E9F-5537-4404-851E-D722E5058AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAC3E9F-5537-4404-851E-D722E5058AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAC3E9F-5537-4404-851E-D722E5058AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882D1C09-FF37-4C77-A2FA-BDFB0ACCD4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882D1C09-FF37-4C77-A2FA-BDFB0ACCD4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882D1C09-FF37-4C77-A2FA-BDFB0ACCD4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882D1C09-FF37-4C77-A2FA-BDFB0ACCD4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8944CE4-8DDF-41F5-8AEE-6E137DDDBFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8944CE4-8DDF-41F5-8AEE-6E137DDDBFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8944CE4-8DDF-41F5-8AEE-6E137DDDBFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8944CE4-8DDF-41F5-8AEE-6E137DDDBFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B002A23-46E5-4A92-B93D-178136F26313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B002A23-46E5-4A92-B93D-178136F26313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B002A23-46E5-4A92-B93D-178136F26313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B002A23-46E5-4A92-B93D-178136F26313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E86553A-B2A7-4DBF-9CEB-098CA276ED49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E86553A-B2A7-4DBF-9CEB-098CA276ED49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E86553A-B2A7-4DBF-9CEB-098CA276ED49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E86553A-B2A7-4DBF-9CEB-098CA276ED49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C09FD99-9EE0-4D05-9D2C-6CE151716896}
+	EndGlobalSection
+EndGlobal
